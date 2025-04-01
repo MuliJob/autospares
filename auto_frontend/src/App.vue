@@ -3,11 +3,13 @@ import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  
+  <div>
+    <nav class="flex justify-between items-center py-4">
+      
+    </nav>
 
-  <RouterView />
+    <RouterView />
+  </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
